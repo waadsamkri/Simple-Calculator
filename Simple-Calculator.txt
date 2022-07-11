@@ -1,6 +1,6 @@
 import java.util.Scanner;// class to let user enter an input.
 import java.io.IOException;// class to clear the screan.
-public class projectCS140
+public class calc
 { //this method is used to clear the screen 
  public static void clrscr()
     { try 
